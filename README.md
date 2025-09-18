@@ -1,8 +1,4 @@
-Here’s the same **ATS-friendly resume in English** based on your LinkedIn/PDF profile:
-
----
-
-## **Hangga Aji Sayekti**
+# Hangga Aji Sayekti
 
 Greater Yogyakarta, Indonesia
 📧 [bazeniancode@gmail.com](mailto:bazeniancode@gmail.com)
