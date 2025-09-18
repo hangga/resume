@@ -1,7 +1,6 @@
 # Hangga Aji Sayekti
 
 Greater Yogyakarta, Indonesia
-📧 [bazeniancode@gmail.com](mailto:bazeniancode@gmail.com)
 🔗 [LinkedIn](https://www.linkedin.com/in/hanggaajisayekti) | [Portfolio](https://hangga.github.io) | [Blog](https://hangga.github.io/blog)
 
 ---
