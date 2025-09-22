@@ -73,7 +73,7 @@ Software Engineer & Technical Author with experience since 2008. Skilled in deve
 
 * Developed and maintained information systems (student registration, finance, election counting, and event websites).
 
-**CV. Solusi Netindo – Yogyakarta, Indonesia**
+### CV. Solusi Netindo – Yogyakarta, Indonesia
 *Delphi Programmer* — Jun 2008 – Nov 2010
 
 ---
