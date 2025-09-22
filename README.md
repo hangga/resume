@@ -5,13 +5,13 @@ Greater Yogyakarta, Indonesia
 
 ---
 
-### **Professional Summary**
+## **Professional Summary**
 
 Software Engineer & Technical Author with experience since 2008. Skilled in developing Android & iOS applications, CI/CD automation, and security testing (penetration testing). Combining software engineering with cybersecurity to build reliable and secure solutions.
 
 ---
 
-### **Core Competencies / Skills**
+## **Core Competencies / Skills**
 
 * **Software Engineering**: Android (Java, Kotlin, RxJava, Retrofit), iOS (Swift, SwiftUI, Alamofire), CI/CD (CircleCI, GitLab, Azure DevOps)
 * **Cybersecurity**: Web & Android Penetration Testing, Vulnerability Scanning, API Security Testing
@@ -21,9 +21,9 @@ Software Engineer & Technical Author with experience since 2008. Skilled in deve
 
 ---
 
-### **Professional Experience**
+## **Professional Experience**
 
-#### CircleCI – San Francisco, CA, USA
+### CircleCI – San Francisco, CA, USA
 *Technical Code Reviewer* — May 2025 – Present
 
 * Reviewed tutorial code for CircleCI blog: tested code samples, verified builds, and ensured content quality and consistency.
@@ -33,12 +33,12 @@ Software Engineer & Technical Author with experience since 2008. Skilled in deve
 * Wrote technical content on CI/CD automation, security testing, and performance optimization.
 * Integrated vulnerability scanning tools into build pipelines.
 
-#### LogRocket – Boston, MA, USA
+### LogRocket – Boston, MA, USA
 *Content Advisory Board* — Sep 2024 – May 2025
 
 * Reviewed and rated software development articles and provided actionable feedback to improve content quality.
 
-#### Kredibel – Jakarta, Indonesia
+### Kredibel – Jakarta, Indonesia
 *Head of Product & Engineering* — Aug 2023 – Feb 2025
 
 * Led R\&D of new features, technology implementation, and managed app releases to Google Play & App Store.
@@ -49,12 +49,12 @@ Software Engineer & Technical Author with experience since 2008. Skilled in deve
 * Built Kredibel Vision SDK and managed internal Maven repository.
 * Conducted R\&D on ML libraries (Google/Firebase/Huawei ML Kit).
 
-#### Baeldung – Bucharest, Romania
+### Baeldung – Bucharest, Romania
 *Author (Java & Kotlin series)* — Oct 2023 – Oct 2024
 
 * Wrote JVM ecosystem tutorials/articles, built sample projects, and performed unit testing under editorial guidance.
 
-#### Sebangsa Network – Yogyakarta, Indonesia
+### Sebangsa Network – Yogyakarta, Indonesia
 *Lead Android Engineer* — Aug 2015 – Mar 2020
 
 * Led Android development team through coding, testing, bug fixing, staging, and production releases.
@@ -63,12 +63,12 @@ Software Engineer & Technical Author with experience since 2008. Skilled in deve
 *Senior Android Developer* — 2015 – 2017
 *Android Developer* — Jan 2013 – Aug 2015
 
-#### Pondok Programmer – Bantul, Indonesia
+### Pondok Programmer – Bantul, Indonesia
 *Teacher/Mentor* — Jun 2015 – Dec 2015
 
 * Designed syllabus, taught Android development, and guided students on projects.
 
-#### Universitas Negeri Yogyakarta – Yogyakarta, Indonesia
+### Universitas Negeri Yogyakarta – Yogyakarta, Indonesia
 *Information System/Programmer* — Mar 2010 – Dec 2012
 
 * Developed and maintained information systems (student registration, finance, election counting, and event websites).
@@ -78,13 +78,13 @@ Software Engineer & Technical Author with experience since 2008. Skilled in deve
 
 ---
 
-### **Education**
+## **Education**
 
 **Universitas Negeri Yogyakarta** — B.Sc. Mathematics (2002 – 2009)
 
 ---
 
-### **Certifications**
+## **Certifications**
 
 * [SQL Injection Attacks – EC-Council Learning](https://learn.eccouncil.org/certificate/f773daad-2dfd-4501-adff-940124dd7d60?logged=true)
 * [Introduction to Penetration Testing](https://elearning.securityblue.team/home/certificate/281113316)
